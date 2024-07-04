@@ -34,3 +34,5 @@
   
 ## Mô tả
 Hệ thống IoT đơn giản ứng dụng học máy để dự đoán tình trạng mưa của ngày hôm nay và thông báo tới người dùng thông qua email. Hệ thống được dự kiến là sẽ có thể nhận dữ liệu môi trường ngày hôm trước để đưa ra dự đoán về trình trạng mưa ngày hôm sau và dựa trên ngày trong năm để dự đoán, tuy nhiên nhóm chỉ triển khai được dự đoán về trình trạng mưa ngày hôm sau. 
+
+### P/S: Repository này không thể hiện quá trình thực hiện dự án của tôi hay của nhóm, repository này được tạo sau khi dự án môn học kết thúc bởi cá nhân tôi với mục đích lưu trữ
